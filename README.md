@@ -11,3 +11,9 @@ __HTML:__ Estrutura das páginas, criação dos elementos visuais.
 __CSS:__ Estilização dos elementos, responsividade, e customização de cursores.
 
 __JavaScript:__ Lógica do jogo, gerenciamento dos dados das cartas e interatividade.
+
+
+
+
+https://github.com/user-attachments/assets/4fc3cd49-9431-45bb-9cfb-9041ef4e7646
+
